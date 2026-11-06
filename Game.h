@@ -8,4 +8,4 @@ class Game {
     private:
         Board board;
         char crossOrCircle;
-}
+};

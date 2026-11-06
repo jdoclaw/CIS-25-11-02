@@ -11,4 +11,4 @@ class Board {
 
     private:
         char ** grid;
-}
+};
